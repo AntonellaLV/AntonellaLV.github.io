@@ -13,7 +13,7 @@ __<h1 align="center">Hi 👋, I'm Antonella Lucero Vetack</h1><br><h3 align="cen
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonellaLV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![]("Technology is best when it brings people together and creativity flourishes.")
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AntonellaLV&icon=0&color=4)](https://visitcount.itsvg.in)
